@@ -6,6 +6,7 @@
 * [<i class="fa fa-refresh" aria-hidden="true"></i>  更新记录](/sjz)
 * [<i class="fa fa-github-alt" aria-hidden="true"></i>HW专项漏洞库](/hw) 
 * [<i class="fa fa-rocket" aria-hidden="true"></i> 友情链接]()
+     * [<i class="fa fa-ravelry" aria-hidden="true"></i>  企查查](/qcc.html)
      * [阿里云漏洞库](https://avd.aliyun.com/)
      * [奇安信威胁情报中心](https://ti.qianxin.com/vulnerability/list)
      * [微步-X情报社区](https://x.threatbook.com/v5/vulIntelligence)
@@ -14,7 +15,7 @@
      * [绿盟威胁情报中心](https://nti.nsfocus.com/threatNotice)
      * [CVE-Details](https://www.cvedetails.com/)
      * [CNVD漏洞库](https://www.cnvd.org.cn/flaw/list)
-     * [<i class="fa fa-ravelry" aria-hidden="true"></i>  企查查](/qcc.html)
+
 * [<i class="fa fa-ravelry" aria-hidden="true"></i>  贡献榜](/guide)
      * [<i class="fa fa-ravelry" aria-hidden="true"></i>  CNVD证书榜](/cnvd.html)
 * [<i class="fa fa-medium" aria-hidden="true" /></i>  知识库](/zsk/zsk-hx/zsk)
