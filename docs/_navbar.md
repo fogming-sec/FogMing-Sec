@@ -14,7 +14,6 @@
      * [绿盟威胁情报中心](https://nti.nsfocus.com/threatNotice)
      * [CVE-Details](https://www.cvedetails.com/)
      * [CNVD漏洞库](https://www.cnvd.org.cn/flaw/list)
-     * [企查查](https://fogming-sec.github.io/lxmtools/qt/qcc.html)
      * [<i class="fa fa-ravelry" aria-hidden="true"></i>  企查查](/qcc.html)
 * [<i class="fa fa-ravelry" aria-hidden="true"></i>  贡献榜](/guide)
      * [<i class="fa fa-ravelry" aria-hidden="true"></i>  CNVD证书榜](/cnvd.html)
